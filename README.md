@@ -29,14 +29,14 @@ Game of NFTs (GoN) is a program that provides public environments where the Inte
 
 Please follow these instructions to complete the workshop:
 
-1. [Gon's Preparation](./docs/1.Preparation.md)
+1. [GoN's Preparation](./docs/1.Preparation.md)
 2. [The Cross-Chain NFT Tranfer](./docs/2.TheCrossChainNFTTranfer.md)
 
 
 ### References
 
 + [Game of NFTS](https://interchainnfts.dev/gon)
-+ [Gon Testnets](https://github.com/game-of-nfts/gon-testnets)
-+ [Gon Evidence](https://github.com/game-of-nfts/gon-evidence)
++ [GoN Testnets](https://github.com/game-of-nfts/gon-testnets)
++ [GoN Evidence](https://github.com/game-of-nfts/gon-evidence)
 + [Cosmos Network Discord](https://discord.com/invite/cosmosnetwork)
 + [ICS721 Demo](https://github.com/arkprotocol/ics721-demo)
